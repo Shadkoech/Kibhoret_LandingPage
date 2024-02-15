@@ -1,9 +1,9 @@
 import React from "react";
-import Gate from "../Assets/old/delivery-image.png";
-import WeighIn from "../Assets/old/choose-image.png";
-import Lab from "../Assets/Lab.png";
-import Tankfarm from "../Assets/offloading.png";
-import WeighOut from "../Assets/parking.png"
+import Gate from "../Assets/gateentry.png";
+import WeighIn from "../Assets/Weighbridge.png";
+import Lab from "../Assets/Analysis.png";
+import Tankfarm from "../Assets/tankfarmpic.jpg";
+import WeighOut from "../Assets/wbout.png"
 
 const Process = () => {
   const processInfoData = [
@@ -34,7 +34,7 @@ const Process = () => {
     }
   ];
   return (
-    <div className="process-section-wrapper">
+    <div id="process" className="process-section-wrapper">
       <div className="process-section-top">
         <p className="primary-subheading">Process</p>
         <h1 className="primary-heading">Material flow</h1>
