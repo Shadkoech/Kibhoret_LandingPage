@@ -1,5 +1,6 @@
 import React from "react";
 import { AiFillStar } from "react-icons/ai";
+import { FaGithub, FaLinkedin } from 'react-icons/fa';
 
 const Developers = () => {
   return (
@@ -13,22 +14,31 @@ const Developers = () => {
           {/* Developer 1 */}
           <div className="developer">
             <div>
-              <h2>Name: Koech Shadrack</h2>
-              <p>Github: <a href="https://github.com/Shadkoech">link</a><br />LinkedIn: <a href="https://www.linkedin.com/in/koechshadrack">link</a></p>
+              <h2>Koech <br /> Shadrack</h2>
+              <p>
+                <a href="https://github.com/Shadkoech"><FaGithub size={24} /></a>
+                <a href="https://www.linkedin.com/in/koechshadrack"><FaLinkedin size={24} /></a>
+              </p>
             </div>
           </div>
           {/* Developer 2 */}
           <div className="developer">
             <div>
-              <h2>Name: Joseph Kibuchi</h2>
-              <p>Github: <a href="https://github.com/kibuchijw">link</a><br />LinkedIn: <a href="https://www.linkedin.com/in/joseph-k-25a17a78">link</a></p>
+              <h2>Joseph <br /> Kibuchi</h2>
+              <p>
+                <a href="https://github.com/kibuchijw"><FaGithub size={24} /></a>
+                <a href="https://www.linkedin.com/in/joseph-k-25a17a78"><FaLinkedin size={24} /></a>
+              </p>
             </div>
           </div>
           {/* Developer 3 */}
           <div className="developer">
             <div>
-              <h2>Name: Jukunye Shira</h2>
-              <p>Github: <a href="https://github.com/Jukunye">link</a><br />LinkedIn: <a href="https://www.linkedin.com/in/jukunye">link</a></p>
+              <h2>Jukunye <br /> Shira</h2>
+              <p>
+                <a href="https://github.com/Jukunye"><FaGithub size={24} /></a>
+                <a href="https://www.linkedin.com/in/jukunye"><FaLinkedin size={24} /></a>
+              </p>
             </div>
           </div>
         </div>
