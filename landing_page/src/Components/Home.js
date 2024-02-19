@@ -17,12 +17,12 @@ const Home = () => {
             Streamline Your Internal Material Flow with Our Automated System
           </h1>
           <p className="primary-text">
-          Say goodbye to manual data entry and streamline your material flow 
-          process from truck arrival to offloading with our intuitive web application.
+            Say goodbye to manual data entry and streamline your material flow 
+            process from truck arrival to offloading with our intuitive web application.
           </p>
-          <button className="secondary-button">
+          <a href="http://www.koech.tech/login" className="secondary-button">
             Visit us <FiArrowRight />{" "}
-          </button>
+          </a>
         </div>
         <div className="home-image-section">
           <img src={BannerImage} alt="" />
