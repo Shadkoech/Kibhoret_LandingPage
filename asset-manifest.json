@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/clear/static/css/main.6365e01e.css",
-    "main.js": "/clear/static/js/main.50048cbd.js",
-    "static/media/Analysis.png": "/clear/static/media/Analysis.f197d535bdf311109f42.png",
-    "static/media/tanker_1.png": "/clear/static/media/tanker_1.5295a27f8832eaaeda86.png",
-    "static/media/side.jpg": "/clear/static/media/side.cef0e37e57d27de4be30.jpg",
-    "static/media/gateentry.png": "/clear/static/media/gateentry.0de711c5f89c8a039d18.png",
-    "static/media/wbout.png": "/clear/static/media/wbout.f5c89bc5551771ddf158.png",
-    "static/media/Weighbridge.png": "/clear/static/media/Weighbridge.e24a689c82d260609dc1.png",
-    "static/media/tankfarmpic.jpg": "/clear/static/media/tankfarmpic.a15c76224803a04206b4.jpg",
-    "index.html": "/clear/index.html",
-    "main.6365e01e.css.map": "/clear/static/css/main.6365e01e.css.map",
-    "main.50048cbd.js.map": "/clear/static/js/main.50048cbd.js.map"
+    "main.css": "/Kibhoret_LandingPage/static/css/main.6365e01e.css",
+    "main.js": "/Kibhoret_LandingPage/static/js/main.5eada409.js",
+    "static/media/Analysis.png": "/Kibhoret_LandingPage/static/media/Analysis.f197d535bdf311109f42.png",
+    "static/media/tanker_1.png": "/Kibhoret_LandingPage/static/media/tanker_1.5295a27f8832eaaeda86.png",
+    "static/media/side.jpg": "/Kibhoret_LandingPage/static/media/side.cef0e37e57d27de4be30.jpg",
+    "static/media/gateentry.png": "/Kibhoret_LandingPage/static/media/gateentry.0de711c5f89c8a039d18.png",
+    "static/media/wbout.png": "/Kibhoret_LandingPage/static/media/wbout.f5c89bc5551771ddf158.png",
+    "static/media/Weighbridge.png": "/Kibhoret_LandingPage/static/media/Weighbridge.e24a689c82d260609dc1.png",
+    "static/media/tankfarmpic.jpg": "/Kibhoret_LandingPage/static/media/tankfarmpic.a15c76224803a04206b4.jpg",
+    "index.html": "/Kibhoret_LandingPage/index.html",
+    "main.6365e01e.css.map": "/Kibhoret_LandingPage/static/css/main.6365e01e.css.map",
+    "main.5eada409.js.map": "/Kibhoret_LandingPage/static/js/main.5eada409.js.map"
   },
   "entrypoints": [
     "static/css/main.6365e01e.css",
-    "static/js/main.50048cbd.js"
+    "static/js/main.5eada409.js"
   ]
 }
