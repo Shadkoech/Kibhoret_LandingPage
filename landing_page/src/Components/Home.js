@@ -1,5 +1,4 @@
 import React from "react";
-// import BannerBackground from "../Assets/WallPaper.png";
 import BannerImage from "../Assets/tanker_1.png";
 import Navbar from "./Navbar";
 import { FiArrowRight } from "react-icons/fi";
@@ -20,7 +19,7 @@ const Home = () => {
             Say goodbye to manual data entry and streamline your material flow 
             process from truck arrival to offloading with our intuitive web application.
           </p>
-          <a href="http://www.koech.tech/login" className="secondary-button">
+          <a href="http://www.koech.tech/login" target="_blank" rel="noopener noreferrer" className="secondary-button">
             Visit us <FiArrowRight />{" "}
           </a>
         </div>
